@@ -92,7 +92,7 @@ main{
 }
 @media(width<600px){
     body{
-        #fff;
+        background:#fff;
     }
   
     main {
