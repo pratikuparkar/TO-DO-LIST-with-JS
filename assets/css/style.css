@@ -36,7 +36,9 @@ main{
     margin-right: 20px;
     border:2px solid #ccc;
 }
-
+.todoList{
+    padding:20px 35px;  /*20 for top bottom 35 for left right*/
+}
 .todoList .listItem{
     display:flex;
     font-size:20px;
