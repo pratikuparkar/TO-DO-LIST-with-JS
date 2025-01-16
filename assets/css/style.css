@@ -90,11 +90,10 @@ main{
 .todo{
     margin-top: 70px;
 }
-
-@media screen and (max-width:600px){
+@media screen and (max-width:600px)  {
   body{
-      background:#f00606;
+    background: ##f00606;
+  }
 }
 
-}
     
