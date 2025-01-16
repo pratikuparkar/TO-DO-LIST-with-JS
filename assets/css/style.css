@@ -91,6 +91,9 @@ main{
     margin-top: 70px;
 }
 @media(width<600px){
+    @body{
+        #fff;
+    }
   
     main {
         height: inherit;
