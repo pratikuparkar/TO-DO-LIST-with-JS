@@ -90,10 +90,14 @@ main{
 .todo{
     margin-top: 70px;
 }
-@media screen and (max-width:600px)  {
-  .todo{
-    flex-direction:column;
-  }
+@media(width<600px){
+  
+    main {
+        height: inherit;
+        display: block;
+        text-align: center;
+        justify-content: space-around;
+    }
 }
 
     
